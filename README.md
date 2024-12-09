@@ -14,3 +14,6 @@ ANTLR Runtime for Python 3
 ## How to use
 Run the program from the command line, passing the name of a Python file as a command line argument.
 Example: python parser.py example.py
+
+## Video Demo
+https://www.youtube.com/watch?v=e027Bt86iic
